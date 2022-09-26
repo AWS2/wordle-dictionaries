@@ -1,31 +1,19 @@
 branch
-<<<<<<< HEAD
-employ
-prison
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
 fluffy
 hockey
->>>>>>> 49a45860ea345f6e012c9c22e8796e77bdbb5c92
->>>>>>> 9f15640aa05d6c4a4953afe84397a545919526b5
->>>>>>> 492bf21d0407b565f6af0ee99264b84c95d16c4d
+fluffy
+hockey
 cyrcle
 square
 purple
 yellow
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
+like
+when
 tshirt
 browser
-=======
 yellow
 choose
 forget
->>>>>>> 492bf21d0407b565f6af0ee99264b84c95d16c4d
 absorb
 search
 purple
@@ -34,14 +22,7 @@ cyrcle
 square
 purple
 yellow
-<<<<<<< HEAD
-employ
-prison
-=======
-<<<<<<< HEAD
 commit
 savour
-=======
->>>>>>> 49a45860ea345f6e012c9c22e8796e77bdbb5c92
->>>>>>> 9f15640aa05d6c4a4953afe84397a545919526b5
->>>>>>> 492bf21d0407b565f6af0ee99264b84c95d16c4d
+employ
+prison

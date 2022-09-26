@@ -1,21 +1,15 @@
 anònim
-<<<<<<< HEAD
-mussol
-maleta
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
+portes
+mirall
+Derecho
+Unidos
 portes
 mirall
 ratolí
 llibre
 imatge
-=======
 bòtids
 arpell
->>>>>>> 9f15640aa05d6c4a4953afe84397a545919526b5
->>>>>>> 492bf21d0407b565f6af0ee99264b84c95d16c4d
 xabola
 llapis
 portes
@@ -25,20 +19,17 @@ imatge
 ratoli
 portes
 mirall
-<<<<<<< HEAD
-mussol
-maleta
-=======
-<<<<<<< HEAD
+agafar
+anunci
+mirall
+agafar
+anunci
 agafar
 anunci
 armari
 cadira
-
-=======
 mirall
 agafar
 anunci
->>>>>>> 49a45860ea345f6e012c9c22e8796e77bdbb5c92
->>>>>>> 9f15640aa05d6c4a4953afe84397a545919526b5
->>>>>>> 492bf21d0407b565f6af0ee99264b84c95d16c4d
+mussol
+maleta
