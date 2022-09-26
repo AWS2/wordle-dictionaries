@@ -1,7 +1,20 @@
 branch
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+fluffy
+hockey
+>>>>>>> 49a45860ea345f6e012c9c22e8796e77bdbb5c92
+>>>>>>> 9f15640aa05d6c4a4953afe84397a545919526b5
 cyrcle
 square
 purple
+yellow
+<<<<<<< HEAD
+tshirt
+browser
+=======
 yellow
 choose
 forget
@@ -13,5 +26,9 @@ cyrcle
 square
 purple
 yellow
+<<<<<<< HEAD
 commit
 savour
+=======
+>>>>>>> 49a45860ea345f6e012c9c22e8796e77bdbb5c92
+>>>>>>> 9f15640aa05d6c4a4953afe84397a545919526b5

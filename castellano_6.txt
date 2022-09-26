@@ -1,14 +1,28 @@
 idioma
+<<<<<<< HEAD
+camión
+basura
+=======
+flotar
+llamar
 barcos
 adopta
 muerta
 puerta
+>>>>>>> 49a45860ea345f6e012c9c22e8796e77bdbb5c92
 cabeza
 pierna
 camisa
 muerta
 puerta
+<<<<<<< HEAD
 abejas
 básico
 flauta
 herido
+=======
+puerta
+abejas
+básico
+puerta
+>>>>>>> 9f15640aa05d6c4a4953afe84397a545919526b5

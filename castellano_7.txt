@@ -1,4 +1,21 @@
 hermosa
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+clasico
+musical
+muertas
+puertas
+botella
+puertas
+=======
+persona
+coronar
+teclado
+botella
+muertas
+puertas
+>>>>>>> 9f15640aa05d6c4a4953afe84397a545919526b5
 amantes
 armando
 muertas
@@ -9,5 +26,9 @@ muertas
 puertas
 ballena
 momento
+<<<<<<< HEAD
 aspecto
 monitor
+=======
+>>>>>>> 49a45860ea345f6e012c9c22e8796e77bdbb5c92
+>>>>>>> 9f15640aa05d6c4a4953afe84397a545919526b5

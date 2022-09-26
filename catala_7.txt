@@ -2,6 +2,16 @@ acrònim
 navegar
 ulleres
 miralls
+sabates
+tovallo
+sabates
+=======
+abdicat
+abdomen
+navegar
+ulleres
+miralls
+sabata
 sabata
 dimarts
 rebedor
@@ -13,6 +23,10 @@ navegar
 ulleres
 miralls
 sabata
+<<<<<<< HEAD
 vaixell
 sabates
 
+=======
+>>>>>>> 49a45860ea345f6e012c9c22e8796e77bdbb5c92
+>>>>>>> 9f15640aa05d6c4a4953afe84397a545919526b5

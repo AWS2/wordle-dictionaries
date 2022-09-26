@@ -1,7 +1,20 @@
 benefit
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+freedom
+healthy
+>>>>>>> 49a45860ea345f6e012c9c22e8796e77bdbb5c92
+>>>>>>> 9f15640aa05d6c4a4953afe84397a545919526b5
 trouser
 sneaker
 landing
+buttons
+<<<<<<< HEAD
+browser
+windows
+=======
 buttons
 actress
 balance
@@ -13,6 +26,10 @@ trouser
 sneaker
 landing
 buttons
+<<<<<<< HEAD
 flavour
 gateway
 
+=======
+>>>>>>> 49a45860ea345f6e012c9c22e8796e77bdbb5c92
+>>>>>>> 9f15640aa05d6c4a4953afe84397a545919526b5

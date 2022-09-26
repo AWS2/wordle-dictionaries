@@ -1,4 +1,16 @@
 anònim
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+portes
+mirall
+ratolí
+llibre
+imatge
+=======
+bòtids
+arpell
+>>>>>>> 9f15640aa05d6c4a4953afe84397a545919526b5
 xabola
 llapis
 portes
@@ -8,8 +20,15 @@ imatge
 ratoli
 portes
 mirall
+<<<<<<< HEAD
 agafar
 anunci
 armari
 cadira
 
+=======
+mirall
+agafar
+anunci
+>>>>>>> 49a45860ea345f6e012c9c22e8796e77bdbb5c92
+>>>>>>> 9f15640aa05d6c4a4953afe84397a545919526b5
