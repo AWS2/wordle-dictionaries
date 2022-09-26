@@ -11,5 +11,9 @@ poros
 torno
 avion
 silla
+poros
+torno
+avion
 locos
+porro
 porro
