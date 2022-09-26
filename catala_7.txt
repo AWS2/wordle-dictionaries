@@ -1,4 +1,13 @@
 acrònim
+<<<<<<< HEAD
+navegar
+ulleres
+=======
 miralls
+<<<<<<< HEAD
 sabates
 tovallo
+=======
+sabata
+>>>>>>> 51d6af9c5ce4f5dd3e00f4dd0d26a73ace114aae
+>>>>>>> ea230ba027021813ef35abd07439095bded47dae
