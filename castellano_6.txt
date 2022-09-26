@@ -1,3 +1,5 @@
 idioma
-camion
+camión
 basura
+muerta
+puerta

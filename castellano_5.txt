@@ -1,3 +1,5 @@
 suela
+poros
+torno
 avion
 silla
