@@ -33,3 +33,5 @@ agafar
 anunci
 mussol
 maleta
+mercat
+mareig

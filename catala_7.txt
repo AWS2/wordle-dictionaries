@@ -28,3 +28,5 @@ vaixell
 sabates
 magrana
 mocador
+assolir
+anguila

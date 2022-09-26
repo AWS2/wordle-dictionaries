@@ -26,3 +26,5 @@ commit
 savour
 employ
 prison
+cancer
+chance
