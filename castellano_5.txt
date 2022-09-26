@@ -15,11 +15,8 @@ poros
 torno
 avion
 locos
-<<<<<<< HEAD
 porro
 rubia
 rublo
-
-=======
-porro
->>>>>>> dd24006268b7facceaddd59d81d4c3e5a0407748
+lobos
+palma

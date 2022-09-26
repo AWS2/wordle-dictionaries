@@ -1,12 +1,10 @@
 benefit
-<<<<<<< HEAD
 trouser
 sneaker
 landing
 buttons
 actress
 balance
-=======
 product
 network
 landing
@@ -15,4 +13,6 @@ trouser
 sneaker
 landing
 buttons
->>>>>>> dd24006268b7facceaddd59d81d4c3e5a0407748
+flavour
+gateway
+

@@ -8,13 +8,7 @@ pierna
 camisa
 muerta
 puerta
-<<<<<<< HEAD
-<<<<<<< HEAD
 abejas
 básico
-
-=======
->>>>>>> 6586ccd5199a61bfa6b88b7ffad887c8ab85f452
-=======
-puerta
->>>>>>> dd24006268b7facceaddd59d81d4c3e5a0407748
+flauta
+herido

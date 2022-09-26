@@ -1,11 +1,8 @@
 cercs
-<<<<<<< HEAD
-=======
 caixa
 coses
 porta
 potes
->>>>>>> dd24006268b7facceaddd59d81d4c3e5a0407748
 camió
 avions
 porta
@@ -13,10 +10,8 @@ potes
 cotxe
 camio
 porta
-<<<<<<< HEAD
 potes
 terra
 obrir
-=======
-potes
->>>>>>> dd24006268b7facceaddd59d81d4c3e5a0407748
+arbre
+taula
