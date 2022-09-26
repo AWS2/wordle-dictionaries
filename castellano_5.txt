@@ -1,3 +1,5 @@
 suela
 perro
 gorra
+avion
+silla
