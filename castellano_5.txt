@@ -1,8 +1,7 @@
 suela
-<<<<<<< HEAD
 poros
 torno
-=======
 avion
 silla
->>>>>>> 189e734141f93b687b739bcc3b2036f899f23254
+Desarrollo
+Cambio

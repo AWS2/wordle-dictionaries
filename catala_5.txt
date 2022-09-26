@@ -1,3 +1,5 @@
 cercs
 porta
 potes
+Meses
+Nosotros
