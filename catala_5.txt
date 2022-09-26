@@ -1,4 +1,8 @@
 cercs
+movil
+gotes
+carta
+jugar
 caixa
 coses
 porta
@@ -12,6 +16,7 @@ Nosotros
 cotxe
 camio
 porta
+potes
 potes
 terra
 obrir

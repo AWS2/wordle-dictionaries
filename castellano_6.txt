@@ -1,4 +1,8 @@
 idioma
+camión
+basura
+flotar
+llamar
 barcos
 adopta
 muerta
@@ -10,6 +14,10 @@ muerta
 puerta
 Sociedad
 Gente
+abejas
+básico
+puerta
+puerta
 abejas
 básico
 puerta

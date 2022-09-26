@@ -3,6 +3,13 @@ portes
 mirall
 Derecho
 Unidos
+portes
+mirall
+ratolí
+llibre
+imatge
+bòtids
+arpell
 xabola
 llapis
 portes
@@ -11,6 +18,9 @@ llibre
 imatge
 ratoli
 portes
+mirall
+agafar
+anunci
 mirall
 agafar
 anunci

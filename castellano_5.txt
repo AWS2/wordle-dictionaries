@@ -13,13 +13,10 @@ perro
 gorra
 avion
 silla
+carta
+ganga
 poros
 torno
-avion
-silla
-poros
-torno
-avion
 locos
 porro
 rubia

@@ -1,4 +1,6 @@
 apple
+argue
+alert
 guard
 stick
 doors
@@ -13,6 +15,14 @@ other
 horse
 round
 doors
+green
+clock
+horse
+round
+horse
+round
+doors
+brown
 brown
 plane
 trade
