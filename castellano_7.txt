@@ -1,7 +1,17 @@
 hermosa
+<<<<<<< HEAD
+=======
+amantes
+armando
+muertas
+puertas
+>>>>>>> dd24006268b7facceaddd59d81d4c3e5a0407748
 teclado
 botella
 muertas
 puertas
+<<<<<<< HEAD
 ballena
 momento
+=======
+>>>>>>> dd24006268b7facceaddd59d81d4c3e5a0407748

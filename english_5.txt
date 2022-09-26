@@ -1,4 +1,11 @@
 apple
+<<<<<<< HEAD
+=======
+guard
+stick
+doors
+brown
+>>>>>>> dd24006268b7facceaddd59d81d4c3e5a0407748
 began
 begin
 begun
@@ -7,6 +14,10 @@ brown
 horse
 round
 doors
+<<<<<<< HEAD
 brown
 plane
 trade
+=======
+brown
+>>>>>>> dd24006268b7facceaddd59d81d4c3e5a0407748

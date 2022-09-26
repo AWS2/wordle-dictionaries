@@ -1,8 +1,18 @@
 anònim
+<<<<<<< HEAD
+=======
+xabola
+llapis
+portes
+mirall
+>>>>>>> dd24006268b7facceaddd59d81d4c3e5a0407748
 llibre
 imatge
 ratoli
 portes
 mirall
+<<<<<<< HEAD
 agafar
 anunci
+=======
+>>>>>>> dd24006268b7facceaddd59d81d4c3e5a0407748

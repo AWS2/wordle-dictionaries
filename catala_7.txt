@@ -1,7 +1,18 @@
 acrònim
+<<<<<<< HEAD
 navegar
 ulleres
 miralls
 sabata
 dimarts
 rebedor
+=======
+maduixa
+sabater
+miralls
+sabata
+navegar
+ulleres
+miralls
+sabata
+>>>>>>> dd24006268b7facceaddd59d81d4c3e5a0407748

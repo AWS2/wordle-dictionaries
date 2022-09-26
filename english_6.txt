@@ -1,7 +1,18 @@
 branch
+<<<<<<< HEAD
 cyrcle
 square
 purple
 yellow
 choose
 forget
+=======
+absorb
+search
+purple
+yellow
+cyrcle
+square
+purple
+yellow
+>>>>>>> dd24006268b7facceaddd59d81d4c3e5a0407748
