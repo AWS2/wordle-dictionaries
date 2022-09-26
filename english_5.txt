@@ -1,6 +1,16 @@
 apple
+<<<<<<< HEAD
 began
 begin
 begun
 doors
 brown
+=======
+<<<<<<< HEAD
+horse
+round
+=======
+doors
+brown
+>>>>>>> 51d6af9c5ce4f5dd3e00f4dd0d26a73ace114aae
+>>>>>>> 2b69af6409a15e05f7a88aff3bdf3cf4ed51b227

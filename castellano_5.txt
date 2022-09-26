@@ -1,7 +1,14 @@
 suela
 <<<<<<< HEAD
+<<<<<<< HEAD
 mobil
 telar
+=======
+perro
+gorra
+avion
+silla
+>>>>>>> 2b69af6409a15e05f7a88aff3bdf3cf4ed51b227
 =======
 <<<<<<< HEAD
 poros
