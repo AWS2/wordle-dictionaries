@@ -1,8 +1,7 @@
 hermosa
-<<<<<<< HEAD
 teclado
 botella
-=======
 muertas
 puertas
->>>>>>> 51d6af9c5ce4f5dd3e00f4dd0d26a73ace114aae
+ballena
+momento
