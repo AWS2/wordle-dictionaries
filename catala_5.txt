@@ -1,20 +1,17 @@
 cercs
-<<<<<<< HEAD
-<<<<<<< HEAD
 dutxa
 abril
-=======
+caixa
+coses
+porta
+potes
 camió
 avions
 porta
 potes
->>>>>>> 0104576ebf0745573c4dfe7d6eac5dfc9c81dd44
-=======
-<<<<<<< HEAD
 cotxe
 camio
-=======
 porta
 potes
->>>>>>> 51d6af9c5ce4f5dd3e00f4dd0d26a73ace114aae
->>>>>>> 2b69af6409a15e05f7a88aff3bdf3cf4ed51b227
+dutxa
+abril
