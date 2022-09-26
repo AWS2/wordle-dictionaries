@@ -1,8 +1,13 @@
 suela
+
 mobil
 telar
 perro
 gorra
+avion
+silla
+poros
+torno
 avion
 silla
 poros
