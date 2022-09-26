@@ -1,22 +1,12 @@
 suela
-<<<<<<< HEAD
-<<<<<<< HEAD
 mobil
 telar
-=======
 perro
 gorra
 avion
 silla
->>>>>>> 2b69af6409a15e05f7a88aff3bdf3cf4ed51b227
-=======
-<<<<<<< HEAD
 poros
 torno
-=======
 avion
-silla
 locos
 porro
->>>>>>> 189e734141f93b687b739bcc3b2036f899f23254
->>>>>>> 51d6af9c5ce4f5dd3e00f4dd0d26a73ace114aae
