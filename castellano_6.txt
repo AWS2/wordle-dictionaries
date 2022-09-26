@@ -1,9 +1,16 @@
 idioma
 flotar
 llamar
+barcos
+adopta
+muerta
+puerta
 cabeza
 pierna
 camisa
 muerta
 puerta
+puerta
+abejas
+básico
 puerta

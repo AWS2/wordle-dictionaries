@@ -1,6 +1,10 @@
 apple
 argue
 alert
+guard
+stick
+doors
+brown
 began
 begin
 begun
@@ -9,4 +13,8 @@ brown
 horse
 round
 doors
+brown
+brown
+plane
+trade
 brown

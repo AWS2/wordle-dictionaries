@@ -5,3 +5,14 @@ cyrcle
 square
 purple
 yellow
+yellow
+choose
+forget
+absorb
+search
+purple
+yellow
+cyrcle
+square
+purple
+yellow

@@ -1,4 +1,6 @@
 suela
+bulos
+azote
 mobil
 telar
 perro
@@ -16,4 +18,7 @@ torno
 avion
 locos
 porro
+porro
+rubia
+rublo
 porro

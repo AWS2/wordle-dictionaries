@@ -5,3 +5,13 @@ teclado
 botella
 muertas
 puertas
+amantes
+armando
+muertas
+puertas
+teclado
+botella
+muertas
+puertas
+ballena
+momento

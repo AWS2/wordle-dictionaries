@@ -1,6 +1,10 @@
 cercs
 carta
 jugar
+caixa
+coses
+porta
+potes
 camió
 avions
 porta
@@ -8,4 +12,8 @@ potes
 cotxe
 camio
 porta
+potes
+potes
+terra
+obrir
 potes
