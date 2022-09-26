@@ -1,1 +1,3 @@
 cercs
+carta
+jugar

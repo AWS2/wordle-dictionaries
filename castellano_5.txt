@@ -1,3 +1,5 @@
 suela
 avion
 silla
+carta
+ganga
