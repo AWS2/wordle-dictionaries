@@ -17,16 +17,6 @@ carta
 ganga
 poros
 torno
-avion
-silla
-locos
-porro
-silla
-poros
-torno
-avion
-locos
-porro
 locos
 porro
 rubia
@@ -36,5 +26,5 @@ lobos
 palma
 hacer
 flipo
-hilos
-gases
+astro
+reloj

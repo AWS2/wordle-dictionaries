@@ -24,7 +24,7 @@ landing
 buttons
 flavour
 gateway
-classic
-improve
 ability
 explain
+library
+brother

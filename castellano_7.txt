@@ -27,5 +27,5 @@ aspecto
 monitor
 tambien
 proceso
-caminar
-tortuga
+partida
+temario

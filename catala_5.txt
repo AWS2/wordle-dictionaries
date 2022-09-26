@@ -17,7 +17,6 @@ cotxe
 camio
 porta
 potes
-potes
 terra
 obrir
 arbre
@@ -27,7 +26,7 @@ potes
 terra
 obrir
 potes
-abril
-dutxa
 dolia
 dolor
+ocell
+colze

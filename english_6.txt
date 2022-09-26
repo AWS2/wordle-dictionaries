@@ -24,7 +24,7 @@ purple
 yellow
 commit
 savour
-employ
-prison
 cancer
 chance
+carrot
+letuce

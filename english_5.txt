@@ -1,9 +1,6 @@
 apple
 argue
-<<<<<<< HEAD
-=======
 alert
->>>>>>> 314253724401bca465a8d3bb75526bd80b0ba656
 guard
 stick
 doors
@@ -27,13 +24,12 @@ round
 doors
 brown
 brown
-brown
 plane
 trade
 brown
 quote
 flame
-brush
-pants
 black
 carry
+spoon
+robot
