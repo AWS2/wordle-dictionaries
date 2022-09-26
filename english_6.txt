@@ -1,3 +1,7 @@
 branch
 fluffy
 hockey
+cyrcle
+square
+purple
+yellow

@@ -1,3 +1,8 @@
 idioma
 flotar
 llamar
+cabeza
+pierna
+camisa
+muerta
+puerta

@@ -1,3 +1,7 @@
 hermosa
 persona
 coronar
+teclado
+botella
+muertas
+puertas

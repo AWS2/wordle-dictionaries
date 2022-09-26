@@ -1,3 +1,11 @@
 cercs
 carta
 jugar
+camió
+avions
+porta
+potes
+cotxe
+camio
+porta
+potes
