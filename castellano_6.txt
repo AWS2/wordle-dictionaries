@@ -1,8 +1,21 @@
 idioma
+<<<<<<< HEAD
 camión
 basura
+=======
+flotar
+llamar
+barcos
+adopta
+muerta
+puerta
+>>>>>>> 49a45860ea345f6e012c9c22e8796e77bdbb5c92
 cabeza
 pierna
 camisa
 muerta
+puerta
+puerta
+abejas
+básico
 puerta

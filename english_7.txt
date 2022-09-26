@@ -1,7 +1,26 @@
 benefit
+<<<<<<< HEAD
+=======
+freedom
+healthy
+>>>>>>> 49a45860ea345f6e012c9c22e8796e77bdbb5c92
 trouser
 sneaker
 landing
 buttons
+<<<<<<< HEAD
 browser
 windows
+=======
+buttons
+actress
+balance
+product
+network
+landing
+buttons
+trouser
+sneaker
+landing
+buttons
+>>>>>>> 49a45860ea345f6e012c9c22e8796e77bdbb5c92

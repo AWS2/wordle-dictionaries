@@ -1,6 +1,23 @@
 anònim
+<<<<<<< HEAD
 portes
 mirall
 ratolí
 llibre
 imatge
+=======
+bòtids
+arpell
+xabola
+llapis
+portes
+mirall
+llibre
+imatge
+ratoli
+portes
+mirall
+mirall
+agafar
+anunci
+>>>>>>> 49a45860ea345f6e012c9c22e8796e77bdbb5c92

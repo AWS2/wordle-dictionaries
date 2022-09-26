@@ -1,7 +1,27 @@
 acrònim
+<<<<<<< HEAD
 navegar
 ulleres
 miralls
 sabates
 tovallo
 sabates
+=======
+abdicat
+abdomen
+navegar
+ulleres
+miralls
+sabata
+sabata
+dimarts
+rebedor
+maduixa
+sabater
+miralls
+sabata
+navegar
+ulleres
+miralls
+sabata
+>>>>>>> 49a45860ea345f6e012c9c22e8796e77bdbb5c92

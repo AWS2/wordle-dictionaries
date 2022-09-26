@@ -1,10 +1,30 @@
 apple
+<<<<<<< HEAD
+=======
+argue
+alert
+guard
+stick
+doors
+brown
+>>>>>>> 49a45860ea345f6e012c9c22e8796e77bdbb5c92
 began
 begin
 begun
 doors
 brown
+<<<<<<< HEAD
 green
 clock
 horse
 round
+=======
+horse
+round
+doors
+brown
+brown
+plane
+trade
+brown
+>>>>>>> 49a45860ea345f6e012c9c22e8796e77bdbb5c92

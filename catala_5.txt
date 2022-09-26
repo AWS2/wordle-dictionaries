@@ -1,8 +1,27 @@
 cercs
+<<<<<<< HEAD
 movil
 gotes
+=======
+carta
+jugar
+caixa
+coses
+porta
+potes
+>>>>>>> 49a45860ea345f6e012c9c22e8796e77bdbb5c92
 camió
 avions
 porta
 potes
 cotxe
+<<<<<<< HEAD
+=======
+camio
+porta
+potes
+potes
+terra
+obrir
+potes
+>>>>>>> 49a45860ea345f6e012c9c22e8796e77bdbb5c92

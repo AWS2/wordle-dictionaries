@@ -1,7 +1,26 @@
 hermosa
+<<<<<<< HEAD
 clasico
 musical
 muertas
 puertas
 botella
 puertas
+=======
+persona
+coronar
+teclado
+botella
+muertas
+puertas
+amantes
+armando
+muertas
+puertas
+teclado
+botella
+muertas
+puertas
+ballena
+momento
+>>>>>>> 49a45860ea345f6e012c9c22e8796e77bdbb5c92
