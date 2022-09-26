@@ -1,5 +1,8 @@
 idioma
 camión
 basura
+cabeza
+pierna
+camisa
 muerta
 puerta
