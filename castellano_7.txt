@@ -1,1 +1,3 @@
 hermosa
+teclado
+botella
