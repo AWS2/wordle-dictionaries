@@ -1,7 +1,15 @@
 apple
 <<<<<<< HEAD
+<<<<<<< HEAD
 brush
 pants
+=======
+began
+begin
+begun
+doors
+brown
+>>>>>>> 0104576ebf0745573c4dfe7d6eac5dfc9c81dd44
 =======
 <<<<<<< HEAD
 horse
