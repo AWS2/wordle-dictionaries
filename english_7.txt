@@ -1,17 +1,8 @@
 benefit
-<<<<<<< HEAD
 freedom
 healthy
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
 freedom
 healthy
->>>>>>> 49a45860ea345f6e012c9c22e8796e77bdbb5c92
->>>>>>> 9f15640aa05d6c4a4953afe84397a545919526b5
->>>>>>> 492bf21d0407b565f6af0ee99264b84c95d16c4d
 trouser
 sneaker
 landing
@@ -31,13 +22,7 @@ trouser
 sneaker
 landing
 buttons
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 flavour
 gateway
-
-=======
->>>>>>> 49a45860ea345f6e012c9c22e8796e77bdbb5c92
->>>>>>> 9f15640aa05d6c4a4953afe84397a545919526b5
->>>>>>> 492bf21d0407b565f6af0ee99264b84c95d16c4d
+ability
+explain
