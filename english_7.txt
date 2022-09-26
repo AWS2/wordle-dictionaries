@@ -1,13 +1,17 @@
 benefit
-<<<<<<< HEAD
 trouser
 sneaker
-=======
 landing
 buttons
-<<<<<<< HEAD
 your
 people
-=======
->>>>>>> 51d6af9c5ce4f5dd3e00f4dd0d26a73ace114aae
->>>>>>> 6586ccd5199a61bfa6b88b7ffad887c8ab85f452
+actress
+balance
+product
+network
+landing
+buttons
+trouser
+sneaker
+landing
+buttons
