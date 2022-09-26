@@ -3,3 +3,12 @@ guard
 stick
 doors
 brown
+began
+begin
+begun
+doors
+brown
+horse
+round
+doors
+brown

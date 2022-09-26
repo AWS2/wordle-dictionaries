@@ -3,3 +3,8 @@ barcos
 adopta
 muerta
 puerta
+cabeza
+pierna
+camisa
+muerta
+puerta

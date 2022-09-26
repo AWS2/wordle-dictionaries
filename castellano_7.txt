@@ -3,3 +3,7 @@ amantes
 armando
 muertas
 puertas
+teclado
+botella
+muertas
+puertas

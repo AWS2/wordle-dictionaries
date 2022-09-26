@@ -1,6 +1,10 @@
 anònim
 xabola
 llapis
-
+portes
+mirall
+llibre
+imatge
+ratoli
 portes
 mirall

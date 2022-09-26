@@ -3,3 +3,11 @@ caixa
 coses
 porta
 potes
+camió
+avions
+porta
+potes
+cotxe
+camio
+porta
+potes
