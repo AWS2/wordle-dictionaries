@@ -1,7 +1,26 @@
 suela
+<<<<<<< HEAD
 poros
 torno
 avion
 silla
 Desarrollo
 Cambio
+=======
+
+mobil
+telar
+perro
+gorra
+avion
+silla
+poros
+torno
+avion
+silla
+poros
+torno
+avion
+locos
+porro
+>>>>>>> 6586ccd5199a61bfa6b88b7ffad887c8ab85f452
