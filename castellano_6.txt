@@ -1,3 +1,6 @@
 idioma
+cabeza
+pierna
+camisa
 muerta
 puerta
