@@ -1,12 +1,26 @@
 cercs
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 492bf21d0407b565f6af0ee99264b84c95d16c4d
 movil
 gotes
 carta
 jugar
+>>>>>>> 9f15640aa05d6c4a4953afe84397a545919526b5
 caixa
 coses
 porta
 potes
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 49a45860ea345f6e012c9c22e8796e77bdbb5c92
+>>>>>>> 9f15640aa05d6c4a4953afe84397a545919526b5
+>>>>>>> 492bf21d0407b565f6af0ee99264b84c95d16c4d
 camió
 avions
 porta
@@ -16,8 +30,20 @@ Nosotros
 cotxe
 camio
 porta
+<<<<<<< HEAD
+potes
+terra
+obrir
+arbre
+taula
+=======
 potes
 potes
 terra
 obrir
 potes
+<<<<<<< HEAD
+=======
+>>>>>>> 49a45860ea345f6e012c9c22e8796e77bdbb5c92
+>>>>>>> 9f15640aa05d6c4a4953afe84397a545919526b5
+>>>>>>> 492bf21d0407b565f6af0ee99264b84c95d16c4d

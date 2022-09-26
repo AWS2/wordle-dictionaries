@@ -12,12 +12,25 @@ pierna
 camisa
 muerta
 puerta
+<<<<<<< HEAD
 Sociedad
 Gente
 abejas
 básico
 puerta
+=======
+<<<<<<< HEAD
+abejas
+básico
+flauta
+herido
+=======
+>>>>>>> 492bf21d0407b565f6af0ee99264b84c95d16c4d
 puerta
 abejas
 básico
 puerta
+<<<<<<< HEAD
+=======
+>>>>>>> 9f15640aa05d6c4a4953afe84397a545919526b5
+>>>>>>> 492bf21d0407b565f6af0ee99264b84c95d16c4d
