@@ -30,3 +30,5 @@ assolir
 anguila
 rodolar
 tafaner
+aclarir
+accedir

@@ -29,3 +29,5 @@ tambien
 proceso
 partida
 temario
+derecho
+soledad

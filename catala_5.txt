@@ -30,3 +30,5 @@ dolia
 dolor
 ocell
 colze
+aroma
+aules

@@ -28,3 +28,5 @@ hacer
 flipo
 astro
 reloj
+borra
+arpón
